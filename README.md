@@ -1,7 +1,7 @@
 ![Hi](https://github.githubassets.com/images/mona-whisper.gif)
 ### Hi there 🔭
 Game-Web #Dev Открыто...
-
+![Hi](https://octodex.github.com/images/dojocat.jpg)
 <!--
 **JFounder/JFounder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

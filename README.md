@@ -1,4 +1,3 @@
-![Hi](https://github.githubassets.com/images/mona-whisper.gif)
 <h2> Welcome to my profile</h2>
 <h3> 👨 &nbsp; Info </h3>
 
@@ -20,7 +19,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
-
+(https://github.githubassets.com/images/mona-whisper.gif)
 <!--
 **JFounder/JFounder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

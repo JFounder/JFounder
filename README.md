@@ -1,4 +1,4 @@
-<img src="assets/video-_1_.gif" width="250"> 
+<img src="assets/video-_1_.gif" width="auto"> 
 <h2> Welcome to my profile</h2>
 <h3> 👨 &nbsp; Info </h3>
 

@@ -1,4 +1,3 @@
-![Hi](https://github.githubassets.com/images/mona-whisper.gif)
 ![Screenshot](assets/video-_1_.gif)
 <h2> Welcome to my profile</h2>
 <h3> 👨 &nbsp; Info </h3>
@@ -8,9 +7,8 @@
 
 <h3> 🛠 &nbsp; i use it </h3>
 
-<a href="https://github.com/JFounder">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFounder&theme=buefy&layout=compact" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JFounder&hide_border=true&show_icons=true&count_private=true&line_height=27)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JFounder&hide_border=true&show_icons=true&langs_count=3)
 
 <br>
 
@@ -21,6 +19,8 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
+
+![Hi](https://github.githubassets.com/images/mona-whisper.gif)
 <!--
 **JFounder/JFounder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

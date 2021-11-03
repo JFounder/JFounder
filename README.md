@@ -30,6 +30,8 @@ I want to start developing, but I'm from Russia and it's difficult.
     </a>
 </div>
 
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/2658?logoColor=white%26project=%26recentMS=0%26showProject=false)
+
 ---
 
 ## **📫 How to reach me**

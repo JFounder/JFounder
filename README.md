@@ -15,7 +15,7 @@
 
 - 🌱 I'm learning various frameworks.
 - 👯 I’m looking to collaborate on anything start-up - tech
-- 📫 How to reach [me](https://vk.com/JFounder).
+- 📫 How to reach [me](https://t.me/JFounder).
 - 🔭 I’m currently working on building an online teaching course focusing on Next.js
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
 ---

@@ -19,14 +19,6 @@
 - 🔭 I’m currently working on building an online teaching course focusing on Next.js
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
 ---
-
-## Discord
-![Discord](https://discordapp.com/api/guilds/770058165727133717/widget.png?style=banner2)
-
-![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/2658?logoColor=white%26project=%26recentMS=0%26showProject=false)
-
-
----
 ## **📊 Stats**
 
 <div align="center" style="text-align:center">
